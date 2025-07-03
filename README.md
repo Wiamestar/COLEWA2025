@@ -4,7 +4,7 @@ This repository hosts the installable version of **COLEWA2025**, a desktop appli
 It was developed in **C# (WPF)** with **OxyPlot** to perform circle fitting using the chi-squared (χ²) method.
 
 📦 **Download**:  
-➡️ [Download setup.exe]([https://github.com/Wiamestar/COLEWA2025/releases/tag/v1.0.0])
+➡️ [Download setup.exe](https://github.com/Wiamestar/COLEWA2025/releases/tag/v1.0.0)
 
 ---
 
